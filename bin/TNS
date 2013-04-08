@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.2
+#!/usr/bin/env python3
 
 import csv, argparse, operator, sys, datetime, time, random, os.path, json, hypy as hy
 from math import log10
